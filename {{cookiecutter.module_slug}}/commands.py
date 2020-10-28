@@ -5,4 +5,4 @@ This file is meant to be imported by Typer.
 """
 import typer
 
-app = typer.Typer()
+commands = typer.Typer()
