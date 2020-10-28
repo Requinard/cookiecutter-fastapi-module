@@ -1,0 +1,4 @@
+{
+  "module_name": "A FastAPI Module",
+  "module_slug": "{{ cookiecutter.module_name.lower().replace(' ', '_') }}"
+}
